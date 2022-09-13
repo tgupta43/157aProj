@@ -1,6 +1,7 @@
 # Ticketing Project
 
 Ticketing Project is a simple ticketing web application. It demonstrates populating and accessing an Oracle XE database.
+Final version is on @contactfp page. 
 
 
 ## Contributions
